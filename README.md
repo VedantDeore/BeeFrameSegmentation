@@ -1,5 +1,5 @@
 
-# Project Title
+# Bee Frame Segmentation
 
 The objective of this project was to implement a segmentation model to accurately define and isolate the region of a bee within a frame, removing other elements. This task is essential for further processing and analysis of bee behavior and characteristics, particularly focusing on their eggs and larvae. The dataset used was sourced from the DeepBee project, and the model was evaluated using various performance metrics to ensure accuracy and efficiency.
 
