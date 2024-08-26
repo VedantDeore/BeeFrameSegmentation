@@ -56,7 +56,7 @@ The model was evaluated on the validation set using metrics including mean Avera
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[Project Report](https://docs.google.com/document/d/1PrZ0mt_gCCAt2bUbitIx18vRP6i9UCzT/edit?usp=drive_link&ouid=113719066612185762728&rtpof=true&sd=true)
 
 
 ## Features
