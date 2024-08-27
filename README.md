@@ -60,7 +60,21 @@ The model was evaluated on the validation set using metrics including mean Avera
 
 
 ## Features
+1. Bee Region Segmentation: Utilizes a deep learning-based segmentation model to accurately identify and isolate the region of bees in images, excluding non-relevant elements.
 
+2. DeepBee Dataset: Leverages the DeepBee dataset, specifically designed for bee segmentation tasks, including annotated images with bounding boxes for eggs, larvae, and other features.
+
+3. Advanced Data Preprocessing: Incorporates data preprocessing steps such as bounding box conversion and data augmentation techniques (random rotation, flipping, scaling) to enhance model robustness and performance.
+
+4. Convolutional Neural Network (CNN) Architecture: Employs a CNN architecture for effective spatial feature extraction, suitable for segmentation tasks in image processing.
+
+5. Performance Evaluation: Assesses model accuracy and efficiency using key metrics like mean Average Precision (mAP) and F1-score, providing a comprehensive analysis of segmentation performance.
+
+6. Optimization Techniques: Implements optimization strategies including hyperparameter tuning, learning rate adjustments, and early stopping to improve model performance.
+
+7. Collaborative Development: Utilizes GitHub for version control and team collaboration, ensuring seamless integration of code and documentation among team members.
+ 
+8. Scalable and Extensible: The model is designed to be scalable and adaptable for further development, allowing for integration with additional datasets and extended functionalities.
 
 
 
